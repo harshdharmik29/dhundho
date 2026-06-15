@@ -2,6 +2,8 @@
 
 **Saw it in a reel? Find it here.**
 
+🔗 **Live App:** [dhundho.streamlit.app](https://dhundho.streamlit.app/)
+
 Dhundho is an AI-powered tool that helps you find products you spot in Instagram/social media reels. Upload a screenshot, and the AI identifies what's in the image, then generates direct search links across popular Indian e-commerce platforms.
 
 ---
